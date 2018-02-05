@@ -1,0 +1,14 @@
+{
+    "name": "maweizuho/test-cmp",
+    "description": "test composer use",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weizhuo.ma",
+            "email": "maweizhuo1314@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
